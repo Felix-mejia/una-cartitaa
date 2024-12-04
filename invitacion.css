@@ -1,0 +1,90 @@
+@charset "utf-8";
+/* CSS Document */
+
+.resolucion{width: 99%; text-align: center}
+
+header {text-align: center; color:blanchedalmond; font-size: 44px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-weight: 800}
+
+article {text-align: center; color: blanchedalmond; font-size: 24px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-weight: 400}
+
+
+
+texto15 {text-align: left; color: darkslategray; font-size: 24px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-weight: 400; border: #FF0000}
+
+.texto15 {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	     color: #FFFFFF;
+	     font-weight: 900;
+         font-size: 14px;
+         position: relative;
+	     text-align: center;
+         top: 15px;
+         left: 530px;
+         background: #03083B;
+         width: 150px;
+         height: 34px;
+	     padding-top: 15px}
+
+.texto15:link {color: #FFFFFF}
+.texto15:visited {color:#4B4B4B}
+.texto15:hover {background: #5967F6}
+
+texto16 {text-align: left; color: darkslategray; font-size: 24px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; font-weight: 400; border: #FF0000}
+
+.texto16 {font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	     color: #FFFFFF;
+	     font-weight: 900;
+         font-size: 14px;
+         position: relative;
+	     text-align: center;
+         top: -53px;
+         left: 830px;
+         background: #03083B;
+         width: 150px;
+         height: 34px;
+	     padding-top: 15px}
+
+.texto16:link {color: #FFFFFF}
+.texto16:visited {color:#4B4B4B}
+.texto16:hover {background: #5967F6}
+
+.imagen1 {width: 807px;
+          height: 739px;
+          position: relative;
+          left: 360px;
+          top: 15px}
+
+@media (max-width: 767px) 
+{.desktop{display: none;}
+	.tablet {display: none}
+	.movil{display: none}}
+
+@media (min-width: 768px) and (max-width: 990px) {.desktop{display: none;} 
+	.movil {display: none}}
+
+@media (min-width: 991px) 
+{.desktop{display: none;} 
+	.movil {display: none}}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
